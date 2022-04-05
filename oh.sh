@@ -215,8 +215,7 @@ exit
 
 clear;
 sleep 1
-figlet SUBSCRIBE
-echo subscribe MisterAM
+figlet FOLLOW
 sleep 2
 	echo "Follow Fb Gw Dulu Bang >_<"
 	sleep 2
