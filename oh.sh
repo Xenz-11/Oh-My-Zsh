@@ -222,7 +222,7 @@ sleep 2
 	   xdg-open https://www.facebook.com/inu.pembangkang.7
   	 sleep 1
 clear
-echo -e "\033[31m$(figlet -f Remo773 "Inu Gans")\e[0m"
+echo -e "\033[31m$(figlet -f Remo773 "Xenz-11")\e[0m"
 echo -e "\e[1;32m
 +----------------------------------*/
 Remo773 : (\e[33m14.4.2021\e[32m)
