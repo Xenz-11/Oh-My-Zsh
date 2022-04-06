@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 if [[ "$1" == "--remove" ]]; then
 	rm -rf ~/.oh-my-zsh ~/.plugins;
 	chsh -s bash;
@@ -219,7 +220,7 @@ figlet FOLLOW
 sleep 2
 	echo "Follow Fb Gw Dulu Bang >_<"
 	sleep 2
-	   xdg-open https://www.facebook.com/inu.pembangkang.7
+	   xdg-open https://www.facebook.com/profile.php?id=100078919720019
   	 sleep 1
 clear
 echo -e "\033[31m$(figlet -f Remo773 "Xenz-11")\e[0m"
